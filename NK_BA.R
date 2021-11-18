@@ -13,3 +13,4 @@ my_model<-lm(CD56dimCD16bright..mature.~Aza.mg.kg.d, data = NK)
 my_model2<-lm(CD56brightCD16..~Aza.mg.kg.d, data = NK)
 summary(my_model)
 summary(my_model2)
+#add something new
