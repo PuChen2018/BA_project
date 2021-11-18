@@ -1,0 +1,11 @@
+Individual	CD56brightCD16 -	CD56brightCD16int	CD56dimCD16bright (mature)	CD56-CD16+	Aza,mg/kg/d	Tacro,mg/kg/d	Methylpredison mg/kg/day	Cyclosp	other medications 	Mutation	diagnosis 	Liver transplant 	case/control 
+ClinPID642	19,6	3,85	72,3	4,24	0	0	0	0	sulpha-trimethoprim	PRF1	BA	not-transplant	case
+PID1563	11,1	2,87	82,8	3,2	0	0	0	0	NA	NA	BA	not-transplant	control
+PID1562	48,2	7,59	42,1	2,02	0	0	0	0		NA	BA	not-transplant	control
+ClinPID655	72,6	4,23	16,9	6,24	0,94	0,06	0	0	NA	UNC13D	BA	transplated	case
+ClinPID646	13,7	2,85	77,7	5,95	1,15	0,1	0,1	0		UNC13D	BA	transplated	case
+PID1532	85,8	7,27	3,2	3,78	0,75	0	2 mg eod	1,9		NA	Hepatocellular carcinoma	transplated	control
+PID1531	60,7	13,5	6,52	6,25	0,76	0,07	0	0		NA	neontal hepatitis 	transplated	control
+ClinPID826	39,8	6,12	48,5	5,36	0,92	0	0,04	2,78		NA	BA	transplated	control
+PID1561	17,1	8,46	69,6	4,8	1	0,12	0	0		NA	hepatoblastoma	transplated	control
+PID1533	47,6	21,9	15,2	15,2	1	0,05	0	0		NA	BA	transplated	control
